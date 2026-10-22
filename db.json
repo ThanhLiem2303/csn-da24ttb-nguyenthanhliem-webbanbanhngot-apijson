@@ -1,0 +1,31 @@
+{
+  "cakes": [
+    {
+      "id": "1",
+      "name": "Bánh kem dâu",
+      "description": "Bánh kem mềm mịn kết hợp dâu tươi.",
+      "price": 260000,
+      "icon": "🎂",
+      "category": "Bánh kem",
+      "ingredients": ["Bột mì", "Trứng", "Sữa", "Dâu tây"]
+    },
+    {
+      "id": "2",
+      "name": "Cupcake chocolate",
+      "description": "Bánh nhỏ xinh với hương chocolate.",
+      "price": 35000,
+      "icon": "🧁",
+      "category": "Cupcake",
+      "ingredients": ["Bột mì", "Trứng", "Bơ", "Chocolate"]
+    },
+    {
+      "id": "3",
+      "name": "Bánh quy bơ",
+      "description": "Bánh quy giòn thơm vị bơ.",
+      "price": 50000,
+      "icon": "🍪",
+      "category": "Bánh quy",
+      "ingredients": ["Bột mì", "Bơ", "Đường"]
+    }
+  ]
+}
